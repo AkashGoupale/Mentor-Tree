@@ -2,9 +2,9 @@
 
 ## Sajjad
 * Praveen Kumar
-* Amit
 * Abhimanyu
 * Akshit
+
 
 ## Vikash
 * Satish
@@ -12,27 +12,30 @@
 * Ujjawal
 * Pathak
 
+
 ## Pawan
 * Roshan
 * Aniket
-* 
-* 
-
-## Satish
-* Geeri
 
 
+## Bhupendra Deshmukh
+* Aadarsh Kumar 
+* Mahender Shah
+
+
+## Prathmesh Mathapati
+* Amit
+* Pradeep
 
 
 ## Jay patel
-* Bhumesh
 * Praveen Vaishano
 
 
 ## Praveen
 * Rahul
-* 
-* 
+* Geeri
+
 
 ## Roshan
 * Manjeet
@@ -46,6 +49,8 @@
 ## Mahendra shah
 * Raja
 
+## Aadarsh
+* Bhumesh
 
 ## Satyam shukla
 * Mahendra Kumat
@@ -69,14 +74,8 @@
 * Rajesh Anuragi
 * Surya Sen
 
-## Prathmesh Mathapati
-* Amit
-* Pradeep
 
-## Bhupendra Deshmukh
-* Aadarsh Kumar 
-* Mahender Shah
 
-##
+
 
 

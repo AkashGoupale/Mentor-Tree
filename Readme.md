@@ -2,7 +2,6 @@
 
 ## Sajjad
 * Praveen Kumar
-* Abhimanyu
 * Akshit
 
 
@@ -25,11 +24,15 @@
 
 ## Prathmesh Mathapati
 * Amit
-* Pradeep
+
+
+## Aarif
+* Abhimanyu
 
 
 ## Jay patel
 * Praveen Vaishano
+* Pradeep
 
 
 ## Praveen

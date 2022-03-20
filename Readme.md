@@ -2,43 +2,52 @@
 
 ## Sajjad
 * Praveen Kumar
-* Akshit
 
 
 ## Vikash
 * Satish
-* Jay patel
-* Ujjawal
-* Pathak
+* Mahendra shah
 
+
+## Suraj
+* ujjwal
 
 ## Pawan
 * Roshan
 * Aniket
 
 
-## Bhupendra Deshmukh
+## Saikiran
 * Aadarsh Kumar 
-* Mahender Shah
 
-
-## Prathmesh Mathapati
-* Amit
+## Suryasen
+* Akash
 
 
 ## Aarif
 * Abhimanyu
+* Praveen vaishanv
 
 
-## Jay patel
-* Praveen Vaishano
+## Rajesh
 * Pradeep
+
+## Ujjwal
+* Akash
+
+## Abhimanyu
 
 
 ## Praveen
 * Rahul
-* Geeri
 
+
+##satish
+* giri
+
+
+## Shubham
+* Amit
 
 ## Roshan
 * Manjeet
@@ -46,39 +55,9 @@
 ## Amit
 * Chhotu
 
-## Pradeep
-* Akash
 
 ## Mahendra shah
 * Raja
 
 ## Aadarsh
 * Bhumesh
-
-## Satyam shukla
-* Mahendra Kumat
-
-## Nasir Mohamad
-* Akash 
-* Nikhil 
-* Bipin
-* Manoj 
-* Bharat 
-
-## Nikhil
-* Sai Kiran
-* Shubham Ramtake
-* Aarif Alam 
-* Pawan 
-* Sajjad 
-* Vikash 
-* Suraj
-* Satyam Shukla
-* Rajesh Anuragi
-* Surya Sen
-
-
-
-
-
-

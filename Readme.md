@@ -1,13 +1,13 @@
 # Mentor tree
 
 ## Sajjad
-* Praveen Kumar
 * Roshan
 
 
 ## Vikash
 * Satish
 * Mahendra shah
+* Praveen Kumar
 
 ## Saikiran
 * Aadarsh Kumar 
@@ -18,15 +18,14 @@
 * Raja
 * Aniket
 
+
 ## Suryasen
 * Pradeep
-
+* Akash Goupale
 
 
 ## Praveen Kumar
 * Giri
-* Akash
-* Bhumesh
 
 
 ## Satish
@@ -44,6 +43,7 @@
 
 ## Shubham
 * Amit
+* Bhumesh
 
 
 ## Roshan

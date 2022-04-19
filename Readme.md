@@ -17,15 +17,12 @@
 ## Pawan
 * Raja
 * Aniket
+* Giri
 
 
 ## Suryasen
 * Pradeep
 * Akash Goupale
-
-
-## Praveen Kumar
-* Giri
 
 
 ## Satish
@@ -63,4 +60,8 @@
 ## Suraj Tiwari
 * pawan channe
 * Raveendra
+
+
+## Bhumesh
+* Abhijeet
 

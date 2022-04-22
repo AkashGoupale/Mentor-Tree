@@ -43,19 +43,19 @@
 * Bhumesh
 
 
-## Roshan
+<!-- ## Roshan
 * Manjeet
-* Mahendra Kumawat
+* Mahendra Kumawat -->
 
 
 ## Mahendra shah
 * Neeraj
 * Omji
 
-
+<!-- 
 ## Aadarsh
 * Banshi
-
+ -->
 
 ## Suraj Tiwari
 * pawan channe
@@ -64,4 +64,8 @@
 
 ## Bhumesh
 * Abhijeet
+
+## Praveen Vaishnav
+* Bansi
+* Manjeet
 

@@ -2,12 +2,17 @@
 
 ## Sajjad
 * Roshan
+* Amit
+* Akash Goupale
 
 
 ## Vikash
 * Satish
 * Mahendra shah
-* Praveen Kumar
+* Ankur
+* Bhumesh
+* Pradeep
+
 
 ## Saikiran
 * Aadarsh Kumar 
@@ -15,58 +20,49 @@
 
 
 ## Pawan
-* Raja
-* Aniket
 * Giri
-
-
-## Suryasen
-* Pradeep
-* Akash Goupale
-* Mahendra kumawat
+* Govind
+* Chhotu
 
 
 ## Satish
 * Ramashish
-* jaydeep Sharma
+
 
 ## Aarif
 * Abhimanyu
 * Praveen vaishanv
 
 
-## Abhimanyu
-* Govind
-* Chhotu
 
-## Shubham
-* Amit
-* Bhumesh
-
-
-<!-- ## Roshan
-* Manjeet
-* Mahendra Kumawat -->
-
+ ## Roshan
+* Aditya
+* Mahendra Kumawat
 
 ## Mahendra shah
 * Neeraj
-* Omji
 
-<!-- 
+
 ## Aadarsh
 * Banshi
- -->
-
-## Suraj Tiwari
-* pawan channe
-* Raveendra
 
 
 ## Bhumesh
 * Abhijeet
 
-## Praveen Vaishnav
-* Bansi
-* Manjeet
 
+## Praveen Vaishnav
+* Pawan Channe
+* Santosh
+
+## Akash Goupale
+* Ravindra 
+* Ramashis
+
+## Giri
+* Vishal
+* Nigmand
+
+## Chhotu
+* Jaideep
+* Shreyansh

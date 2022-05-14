@@ -52,7 +52,7 @@
 
 
 ## Praveen Vaishnav
-* Pawan Channe
+* Vishal
 * Santosh
 
 ## Akash Goupale
@@ -60,7 +60,7 @@
 * Ramashis
 
 ## Giri
-* Vishal
+* Pawan channe
 * Nigmand
 
 ## Chhotu
